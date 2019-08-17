@@ -5,7 +5,6 @@
 首先通过控制机启动主节点
 
 ```
-ssh root@swjtu.pims.ac.cn -p 8217
 ipmitool -I lanplus -H 192.168.21.211 -U ADMIN -P ADMIN power on
 ```
 
