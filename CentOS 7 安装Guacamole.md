@@ -1,13 +1,4 @@
----
-title: CentOS 7 安装Guacamole及VncServer
-date: 2020-07-11 15:18:14
-description: 在CentOS 7上安装Guacamole和VNCserver，通过浏览器访问远程桌面
-categories: Linux
-tags: Linux
-cover: https://api.66mz8.com/document/bg.img.php
-top_img: http://www.dmoe.cc/random.php
-mathjax: true
----
+
 # CentOS 7 安装Guacamole及VncServer
 
 ## 下载安装guacamole
